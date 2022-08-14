@@ -4,7 +4,7 @@ import tkinter.messagebox
 
 root = Tk()
  
-root.title("Scientific Calculator by Prabyasachi")
+root.title("Scientific Calculator")
  
 root.configure(background = 'white')
  
